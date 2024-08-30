@@ -2,7 +2,7 @@
 
 ##Deescripcion General
 
-Este sitio reaalizado con HTMLy CSS, esta diseñado para ofrecer una gran variedad de joyerias, los usuarios pueden navegar a través de diversas secciones para conocer a fondo el comercio, incluyendo información detallada sobre la empresa, su historia, las últimas tendencias en joyería y enlaces a redes sociales para contactarse en caso de cualquier consulta.
+Este sitio reaalizado con HTML y CSS, esta diseñado para ofrecer una gran variedad de joyerias, los usuarios pueden navegar a través de diversas secciones para conocer a fondo el comercio, incluyendo información detallada sobre la empresa, su historia, las últimas tendencias en joyería y enlaces a redes sociales para contactarse en caso de cualquier consulta.
 
 ##El sitio web está estructurado de la siguiente manera
 - Envoltorio html
