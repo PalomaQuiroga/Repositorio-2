@@ -12,6 +12,7 @@ Barra de navegacion con las principales secciones del sitio:
 - Productos
 - Historia
 - Contacto
+  
 ##El tipo de contenido que presenta cada seccion del sitio web
 En la seccion **INICIO**, muestra una introduccion de las distitas joyas que se ofrecen como anillos, collares, pulseras y más. Ademas si desean interiorizar sobre diseño de joyas se le adjunto un link con información. 
 
