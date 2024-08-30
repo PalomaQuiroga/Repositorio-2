@@ -4,8 +4,8 @@
 Este sitio reaalizado con HTMLy CSS, esta diseñado para ofrecer una gran variedad de joyerias
 ##El sitio web está estructurado de la siguiente manera
 - Envoltorio html
-- Encabezado head
-- Cuerpo body
+- Encabezado (head)
+- Cuerpo (body)
 ##Elementos que contiene el encabezado
 Barra de navegacion con las principales secciones del sitio: 
 - Inicio
