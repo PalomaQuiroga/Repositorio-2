@@ -2,6 +2,7 @@
 
 ##Deescripcion General
 Este sitio reaalizado con HTMLy CSS, esta diseñado para ofrecer una gran variedad de joyerias
+
 ##El sitio web está estructurado de la siguiente manera
 - Envoltorio html
 - Encabezado (head)
@@ -15,6 +16,7 @@ Barra de navegacion con las principales secciones del sitio:
 - Contacto
   
 ##El tipo de contenido que presenta cada seccion del sitio web
+
 En la seccion **INICIO**, muestra una introduccion de las distitas joyas que se ofrecen como anillos, collares, pulseras y más. Ademas si desean interiorizar sobre diseño de joyas se le adjunto un link con información. 
 
 En la seccion **PRODUCTOS**se muestra un link para adentrarse a conocer las tendencias de joyas y principalmente los productos de la joyería, cada uno con una imagen , nombre de la joya y su precio.
