@@ -19,10 +19,10 @@ Barra de navegacion con las principales secciones del sitio:
 
 En la seccion **INICIO**, muestra una introduccion de las distitas joyas que se ofrecen como anillos, collares, pulseras y más. Ademas si desean interiorizar sobre diseño de joyas se le adjunto un link con información. 
 
-En la seccion **PRODUCTOS**se muestra un link para adentrarse a conocer las tendencias de joyas y principalmente los productos de la joyería, cada uno con una imagen , nombre de la joya y su precio.
+En la seccion **PRODUCTOS** se muestra un link para adentrarse a conocer las tendencias de joyas y principalmente los productos de la joyería, cada uno con una imagen , nombre de la joya y su precio.
 En la sección 
 
-En la seccion **HISTORIA**se muestra una imagen del interior del negocio y cuenta la historia de la Joyería Zafiro, su trayectoria y experiencia. Además, para conocer la historia del mineral elegido para el nombre de la Joyería Zafiro, se le adjunto un link.
+En la seccion **HISTORIA** se muestra una imagen del interior del negocio y cuenta la historia de la Joyería Zafiro, su trayectoria y experiencia. Además, para conocer la historia del mineral elegido para el nombre de la Joyería Zafiro, se le adjunto un link.
 
 En la seccion **CONTACTO** aparece un enlace de su Instagram y otro de su Facebook, para contartarse con la joyería y una imagen de variedades de joyas.
 
