@@ -1,19 +1,17 @@
 # Repositorio-2
-#sitio web de joyeria zafiro
 
 ##Deescripcion General
 Este sitio reaalizado con HTMLy CSS, esta diseñado para ofrecer una gran variedad de joyerias
 ##El sitio web está estructurado de la siguiente manera
-- envoltorio html
-- Encabezado (header)
-- Cuerpo (body)
+- Envoltorio html
+- Encabezado head
+- Cuerpo body
 ##Elementos que contiene el encabezado
 Barra de navegacion con las principales secciones del sitio: 
 - Inicio
 - Productos
 - Historia
 - Contacto
-  
 ##El tipo de contenido que presenta cada seccion del sitio web
 En la seccion **INICIO**, muestra una introduccion de las distitas joyas que se ofrecen como anillos, collares, pulseras y más. Ademas si desean interiorizar sobre diseño de joyas se le adjunto un link con información. 
 
@@ -23,4 +21,5 @@ En la sección
 En la seccion **HISTORIA**se muestra una imagen del interior del negocio y cuenta la historia de la Joyería Zafiro, su trayectoria y experiencia. Además, para conocer la historia del mineral elegido para el nombre de la Joyería Zafiro, se le adjunto un link.
 
 En la seccion **CONTACTO** aparece un enlace de su Instagram y otro de su Facebook, para contartarse con la joyería y una imagen de variedades de joyas.
+
 
