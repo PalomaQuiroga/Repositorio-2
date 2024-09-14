@@ -2,6 +2,8 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    background-image: linear-gradient(to top, #c454e1, #cb59e1,
+     #d15ee2, #d763e2, #dd68e3, #e266e5, #e664e7, #eb61e9, #f055ed, #f546f1, #fa31f4, #ff06f8);
 }
 
 .container {
@@ -47,7 +49,7 @@ main {
     background-color:#E2A9F3;
     color:#000000;
     margin:1em;
-    height:16em;
+    height:19em;
     text-align:center;
     padding:1em;
 }
@@ -58,4 +60,81 @@ margin:auto;
 border:1px solid #000000;
 background-color:#FFFFFF;
 color:#000000;
+}
+.css-button-3d--black {
+    min-width: 130px;
+    height: 30px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #343a40;
+    box-shadow: 0 5px #212529;
+  }
+  .css-button-3d--black:hover {
+    box-shadow: 0 3px #212529;
+    top: 1px;
+  }
+  .css-button-3d--black:active {
+    box-shadow: 0 0 #212529;
+    top: 5px;
+  }
+  form {
+
+    background-color:  #b109e4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	max-width: 400px;
+    width: 100%; 
+    margin: 20px auto; 
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #000000;
+}
+
+
+
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+
+input[type="number"], input[type="text"], input[type="email"] {
+    background-color: #f9f9f9;
+
+}
+
+
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+
+button:hover {
+    background-color: #4cae4c;
+
 }
